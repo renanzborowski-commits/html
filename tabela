@@ -1,0 +1,224 @@
+
+<table border="1" cellpadding="5" cellspacing="0">
+  <tr bgcolor="#FFFF00">
+    <th colspan="2">Vendas março 2010</th>
+  </tr>
+  <tr bgcolor="#99CCFF">
+    <td><b>Carro</b></td>
+    <td><b>Unidades</b></td>
+  </tr>
+  <tr>
+    <td>Gol</td>
+    <td>250.000</td>
+  </tr>
+  <tr>
+    <td>Uno</td>
+    <td>123.000</td>
+  </tr>
+  <tr bgcolor="#FFFF00">
+    <th colspan="2">Vendas fev. 2010</th>
+  </tr>
+  <tr bgcolor="#99CCFF">
+    <td><b>Carro</b></td>
+    <td><b>Unidades</b></td>
+  </tr>
+  <tr>
+    <td>Gol</td>
+    <td>250.000</td>
+  </tr>
+  <tr>
+    <td>Uno</td>
+    <td>123.000</td>
+  </tr>
+</table>
+
+<table border="1" cellpadding="5" cellspacing="0" style="text-align: center;">
+  <tr bgcolor="#FFFF00">
+    <th colspan="3">Vendas de Carros</th>
+  </tr>
+  <tr bgcolor="#CCFFCC">
+    <td colspan="2"><b>Março</b></td>
+    <td><b>2010</b></td>
+  </tr>
+  <tr bgcolor="#99CCFF">
+    <td><b>Carro</b></td>
+    <td><b>Unidades</b></td>
+    <td><b>Montadora</b></td>
+  </tr>
+  <tr>
+    <td>Gol</td>
+    <td>250.000</td>
+    <td>VW</td>
+  </tr>
+  <tr>
+    <td>Celta</td>
+    <td>190.000</td>
+    <td>GM</td>
+  </tr>
+  <tr>
+    <td>Uno</td>
+    <td>123.000</td>
+    <td>Fiat</td>
+  </tr>
+  <tr bgcolor="#CCFFCC">
+    <td colspan="2"><b>Fevereiro</b></td>
+    <td><b>2010</b></td>
+  </tr>
+  <tr bgcolor="#99CCFF">
+    <td><b>Carro</b></td>
+    <td><b>Unidades</b></td>
+    <td><b>Montadora</b></td>
+  </tr>
+  <tr>
+    <td>Gol</td>
+    <td>230.000</td>
+    <td>VW</td>
+  </tr>
+  <tr>
+    <td>Celta</td>
+    <td>189.000</td>
+    <td>GM</td>
+  </tr>
+  <tr>
+    <td>Uno</td>
+    <td>114.000</td>
+    <td>Fiat</td>
+  </tr>
+</table>
+
+<p>Campeonato Brasileiro</p>
+<table border="1" cellpadding="10" cellspacing="0">
+  <tr>
+    <td rowspan="4" bgcolor="#FFFF00" style="writing-mode: vertical-lr; text-align: center;"><b>Serie A</b></td>
+    <th bgcolor="#99CCFF">Time</th>
+    <th bgcolor="#99CCFF">Pontos</th>
+  </tr>
+  <tr>
+    <td>Internacional</td>
+    <td>50</td>
+  </tr>
+  <tr>
+    <td>Juventude</td>
+    <td>40</td>
+  </tr>
+  <tr>
+    <td>Flamengo</td>
+    <td>30</td>
+  </tr>
+</table>
+
+<p>Campeonato Brasileiro</p>
+<table border="1" cellpadding="10" cellspacing="0">
+  <tr>
+    <td rowspan="4" bgcolor="#FFFF00" style="writing-mode: vertical-lr; text-align: center;"><b>Serie A</b></td>
+    <th bgcolor="#99CCFF">Time</th>
+    <th bgcolor="#99CCFF">Pontos</th>
+  </tr>
+  <tr>
+    <td>Internacional</td>
+    <td>50</td>
+  </tr>
+  <tr>
+    <td>Juventude</td>
+    <td>40</td>
+  </tr>
+  <tr>
+    <td>Flamengo</td>
+    <td>30</td>
+  </tr>
+  <tr>
+    <td rowspan="4" bgcolor="#FFFF00" style="writing-mode: vertical-lr; text-align: center;"><b>Serie B</b></td>
+    <th bgcolor="#99CCFF">Time</th>
+    <th bgcolor="#99CCFF">Pontos</th>
+  </tr>
+  <tr>
+    <td>Grêmio</td>
+    <td>50</td>
+  </tr>
+  <tr>
+    <td>Corinthians</td>
+    <td>40</td>
+  </tr>
+  <tr>
+    <td>Flamengo</td>
+    <td>30</td>
+  </tr>
+</table>
+
+<table border="1" cellpadding="10" cellspacing="0" style="text-align: center;">
+  <tr bgcolor="#99CCFF">
+    <th colspan="5">Vendas Trimestrais</th>
+  </tr>
+  <tr>
+    <td rowspan="3" bgcolor="#FFFF00"><b>2010</b></td>
+    <td>144.000</td>
+    <td rowspan="3" bgcolor="#99FF99"><b>2009</b></td>
+    <td>188.000</td>
+  </tr>
+  <tr>
+    <td>139.580</td>
+    <td>179.580</td>
+  </tr>
+  <tr>
+    <td>254.900</td>
+    <td>298.500</td>
+  </tr>
+</table>
+
+<table border="1" cellpadding="10" cellspacing="0" style="text-align: center;">
+  <tr bgcolor="#99CCFF">
+    <th colspan="3">Visitas mensais</th>
+  </tr>
+  <tr>
+    <td rowspan="5" bgcolor="#FFFF00"><b>2010</b></td>
+    <td colspan="2">144.000</td>
+  </tr>
+  <tr>
+    <td colspan="2">139.580</td>
+  </tr>
+  <tr>
+    <td colspan="2">254.900</td>
+  </tr>
+  <tr>
+    <td><b>Média</b></td>
+    <td><b>Períodos</b></td>
+  </tr>
+  <tr>
+    <td>201.000</td>
+    <td>3</td>
+  </tr>
+</table>
+
+<table border="1" cellpadding="8" cellspacing="0" style="width: 600px;">
+  <tr bgcolor="#000000" style="color: #FFFFFF; text-align: center;">
+    <th colspan="3">Ficha técnica</th>
+  </tr>
+  <tr>
+    <td><img src="polo.jpg" alt="Polo GTI" width="200"></td>
+    <td>Nome</td>
+    <td>Polo GTI</td>
+  </tr>
+  <tr>
+    <td rowspan="6" style="vertical-align: top; text-align: justify; font-size: 12px;">
+      O novo hatch da VW deve chegar à Europa em 2009 e sua versão esportiva vem um ano depois. O modelo deve utilizar a plataforma PQ25. A versão atual (foto) utiliza a PQ 24, que também equipa nossos Gol e Fox. A nova plataforma já é utilizada no espanhol Seat Ibiza. Também graças à PQ25 os brasileiros receberam o conjunto de suspensão dianteira do novo Gol. O motor que equipará o novo Polo GTI deve ser um 1.4 turbo TSI (com injeção direta de combustível) a gasolina e que produz 180 cv de potência. E não é só este número que impressiona: a expectativa é de que o propulsor deve entregar um consumo de cerca de 14,2 km/l.
+    </td>
+    <td>Valor:</td>
+    <td>99.800 reais</td>
+  </tr>
+  <tr>
+    <td>Garantia</td>
+    <td>1 ano sem limite de km</td>
+  </tr>
+  <tr>
+    <td>Consumo Cidade</td>
+    <td>9,7</td>
+  </tr>
+  <tr>
+    <td>Consumo estrada (km/l)</td>
+    <td>13,1</td>
+  </tr>
+  <tr>
+    <td>Tanque de combustível/autonomia</td>
+    <td>45 / 589,5</td>
+  </tr>
+</table>
